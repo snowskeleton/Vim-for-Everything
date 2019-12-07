@@ -1,5 +1,6 @@
 # Vim-for-Everything
 An AHK script that adds some vim-like cursor movement keys to your entire system. Does not include any vim commands. Based on a a script from https://github.com/lydell/spacefn-win
+
 Full list of remaps is as follows
 
 k = Up
